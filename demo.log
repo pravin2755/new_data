@@ -1,0 +1,94 @@
+INFO:werkzeug: * Running on http://127.0.0.1:5005 (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 424-002-119
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2022 14:05:11] "GET /file_upload HTTP/1.1" 200 -
+INFO:forgit:Info level log
+WARNING:forgit:Warning level log
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2022 14:05:28] "[32mPOST /store HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2022 14:05:28] "GET /file_upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\pravinsinh.gohil\\Desktop\\pravin flask\\forgit.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 424-002-119
+INFO:werkzeug: * Detected change in 'C:\\Users\\pravinsinh.gohil\\Desktop\\pravin flask\\forgit.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 424-002-119
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 424-002-119
+INFO:werkzeug: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 424-002-119
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 424-002-119
+INFO:werkzeug: * Detected change in 'C:\\Users\\pravinsinh.gohil\\Desktop\\pravin flask\\forgit.py', reloading
+INFO:werkzeug: * Running on http://127.0.0.1:5005 (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 424-002-119
+INFO:werkzeug: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 424-002-119
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 424-002-119
+INFO:werkzeug: * Running on http://127.0.0.1:5005 (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 424-002-119
+INFO:werkzeug: * Running on http://127.0.0.1:5005 (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 424-002-119
+INFO:werkzeug: * Running on http://127.0.0.1:5005 (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 424-002-119
+INFO:werkzeug: * Running on http://127.0.0.1:5005 (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 424-002-119
+INFO:werkzeug: * Running on http://127.0.0.1:5005 (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 424-002-119
+INFO:werkzeug: * Running on http://127.0.0.1:5005 (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 424-002-119
+INFO:werkzeug: * Running on http://127.0.0.1:5005 (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 424-002-119
+INFO:werkzeug: * Running on http://127.0.0.1:5555 (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 424-002-119
+INFO:werkzeug: * Detected change in 'C:\\Users\\pravinsinh.gohil\\Desktop\\pravin flask\\forgit.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:5555 (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 424-002-119
+INFO:werkzeug: * Running on http://127.0.0.1:5005 (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 424-002-119
+INFO:werkzeug: * Running on http://127.0.0.1:5005 (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 424-002-119
+INFO:werkzeug: * Running on http://127.0.0.1:5005 (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 424-002-119
+INFO:werkzeug: * Running on http://127.0.0.1:5005 (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 424-002-119
+INFO:werkzeug: * Running on http://127.0.0.1:5005 (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 424-002-119
